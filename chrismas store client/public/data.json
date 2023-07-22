@@ -1,0 +1,60 @@
+[
+    {
+        
+        "name": "Decorations",
+        "img": "https://www.newhomesource.com/learn/wp-content/uploads/2020/10/rustic-christmas.jpg.webp"
+      
+    },
+    {
+        
+        "name": "Recipies",
+        "img": "https://images.immediate.co.uk/production/volatile/sites/30/2022/09/gingerbread-house-92008e2.jpg?quality=90&webp=true&resize=375,341"
+       
+    },
+    {
+       
+        "name": "Toys",
+        "img": "https://media.istockphoto.com/id/1069600900/photo/girls-opening-christmas-gifts.jpg?s=1024x1024&w=is&k=20&c=SlxbM82MgIv-NgMtjgw4qG7C6JXwWHQeviy-mvD34D0="
+       
+    },
+    {
+       
+        "name": "Chrismas Store",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKHm6gCdgPN5bkVhIA2O-hIM-wLR707MyLXQ&usqp=CAU"
+       
+    },
+ 
+{
+   
+    "name": "Chrismas Tree",
+    "discount":15,
+  
+    "img": "https://cdn.thewirecutter.com/wp-content/media/2022/11/decoratechristmastree-2048px-iStock-1281771707-2x1-1.jpg?auto=webp&quality=75&crop=2:1&width=980&dpr=1.5"
+   
+},
+{
+   
+    "name": "Chrismas Bells",
+    "discount":25,
+
+    "img": "https://media.istockphoto.com/id/1358361966/photo/jingle-bells.jpg?b=1&s=170667a&w=0&k=20&c=zNbdVxzOatolAqfAoAZ6_p3Af7vfNyi_WpxM8hX3q6M="
+   
+},
+{
+   
+    "name": "Chrismas Cookies",
+    "discount":10,
+   
+    "img": "https://i0.wp.com/www.onceuponachef.com/images/2020/12/gingerbread-men.jpg?resize=768%2C512&ssl=1"
+   
+},
+{
+   
+    "name": "Toys",
+    "discount":5,
+  
+    "img": "https://media.istockphoto.com/id/1069600900/photo/girls-opening-christmas-gifts.jpg?s=1024x1024&w=is&k=20&c=SlxbM82MgIv-NgMtjgw4qG7C6JXwWHQeviy-mvD34D0="
+   
+}
+    
+]
